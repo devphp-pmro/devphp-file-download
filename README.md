@@ -34,7 +34,7 @@ $dl->downloadExec(
 ### Developers
 * [Leonardo] - Developer of this library!
 * [devphp] - Official website: <https://devphp-pmro.github.io/>
-* [Pdf] - Lib from DomPdf
+* [Download] - Lib from Apfelbox\FileDownload\FileDownload
 
 License
 ----
