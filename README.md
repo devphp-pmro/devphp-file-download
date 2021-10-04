@@ -1,6 +1,4 @@
-# Create PDF from DomPdf
-
-
+# File Download is simple
 
 To install the library, run the following command:
 
