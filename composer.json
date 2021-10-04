@@ -1,0 +1,20 @@
+{
+  "name": "devphp-pmro/devphp-file-download",
+  "description": "file download is simple",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leonardo Magalhães",
+      "email": "magalhaesro1979@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src"
+    }
+  },
+  "require": {
+    "apfelbox/php-file-download": "v2.0"
+  }
+}
